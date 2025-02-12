@@ -18,17 +18,14 @@ Potion Leaderboard is a gamified platform for Solana memecoin traders. The appli
    cd potion-leaderboard
    ```
    Install dependencies:
+    ```
+    npm install
 
-bash
-Copy
-Edit
-npm install
+    ```
 Start the app:
-
-bash
-Copy
-Edit
-npm start
+   ```
+    npm start
+   ```
 Technologies Used
 React
 Material-UI
