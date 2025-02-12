@@ -22,18 +22,19 @@ Potion Leaderboard is a gamified platform for Solana memecoin traders. The appli
     npm install
 
     ```
-Start the app:
+   Start the app:
    ```
     npm start
    ```
 Technologies Used
-React
-Material-UI
-Axios for API requests
-CSS for styling
+   - React
+   - Material-UI
+   - Axios for API requests
+   - CSS for styling
+     
 Contributing
-Fork the repository.
-Create a branch for your feature (git checkout -b feature-name).
-Commit your changes (git commit -am 'Add feature').
-Push to your branch (git push origin feature-name).
-Open a pull request.
+  - Fork the repository.
+  - Create a branch for your feature (git checkout -b feature-name).
+  - Commit your changes (git commit -am 'Add feature').
+  - Push to your branch (git push origin feature-name).
+  - Open a pull request.
